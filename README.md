@@ -182,3 +182,8 @@ _ Successful connection using SQL Authentication.
 
 # Design Architecture 
 
+![Network Architecture Diagram](https://github.com/Lola-source2/azure-two-tier-vnet-architecture/blob/main/vnet.png)
+
+
+
+
